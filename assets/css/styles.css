@@ -1186,6 +1186,12 @@ h1{
   text-transform: uppercase;
   padding-top: 30px;
 }
+
+h6 {
+    display: inline-block;
+  text-transform: none;
+}
+
 h1 span{
   color: #f00;
 }
