@@ -292,8 +292,9 @@ a:focus {
 
 .main-nav .nav .nav-item .nav-link {
   color: rgb(0, 0, 0);
-  font-weight: 700;
+  font-weight: 400;
   margin-top: 5px;
+  font-family: "Raleway";
 }
 
 .main-nav .nav .nav-item .nav-link.active {
@@ -415,6 +416,7 @@ color: rgb(0, 0, 0);
 
 .hero-carousel .carousel-inner .intro {
   font-size: 18px;
+  
 }
 
 .hero-carousel .carousel-inner .intro + .btn {
@@ -434,7 +436,7 @@ color: rgb(0, 0, 0);
 }
 
 .about-section .intro {
-  color: #a2a6af;
+  color: #000000;
   font-size: 16px;
   
   margin: 0 auto;
@@ -606,7 +608,7 @@ color: rgb(0, 0, 0);
   margin-left: 105px;
   border-left: none;
   margin-bottom: 0;
-  font-size: 14px;
+  font-size: 16px;
   min-height: 50px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -716,11 +718,12 @@ color: rgb(0, 0, 0);
 }
 
 .pricing-section .intro {
-  color: #a2a6af;
+  color: #000000;
   font-size: 16px;
   max-width: 760px;
   margin: 0 auto;
   margin-bottom: 10px;
+  text-align: left;
 }
 
 .pricing-wrapper {
